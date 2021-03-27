@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e0492336e4fc455db0837b9ef55b181, type: 3}
+  m_Name: RoomWnote
+  m_EditorClassIdentifier: 
+  localName: observe room
+  description: there is a note, seems like experiment note. It says"they became angry,
+    and hungry", then there is scratch mark
+  LocationNorth: {fileID: 11400000, guid: 2de1a38c1e42c45a79c451d3d2bb0b36, type: 2}
+  LocationSouth: {fileID: 11400000, guid: 17672bc702f3b4c62a3cbaa36cbd1ff4, type: 2}
+  LocationWest: {fileID: 11400000, guid: 58c3b21b425974130936ea6017a45e30, type: 2}
+  LocationEast: {fileID: 11400000, guid: 8368cf14cd3394b47a59897a564bbb72, type: 2}

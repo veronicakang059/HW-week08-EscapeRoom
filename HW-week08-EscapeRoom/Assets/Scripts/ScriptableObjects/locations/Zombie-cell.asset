@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e0492336e4fc455db0837b9ef55b181, type: 3}
+  m_Name: Zombie-cell
+  m_EditorClassIdentifier: 
+  localName: cell
+  description: I feel something is moving, what is that, oh shit!!! no!!!
+  LocationNorth: {fileID: 0}
+  LocationSouth: {fileID: 11400000, guid: 2de1a38c1e42c45a79c451d3d2bb0b36, type: 2}
+  LocationWest: {fileID: 11400000, guid: 46ba32d52d7de4d5a9adeb9d67116f51, type: 2}
+  LocationEast: {fileID: 11400000, guid: 645db99bedfcb4143a0eaa7149843a6b, type: 2}

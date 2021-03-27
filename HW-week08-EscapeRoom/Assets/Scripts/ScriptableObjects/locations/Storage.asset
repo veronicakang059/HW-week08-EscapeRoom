@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e0492336e4fc455db0837b9ef55b181, type: 3}
+  m_Name: Storage
+  m_EditorClassIdentifier: 
+  localName: Storage
+  description: They kept many things here, I may need something, to protect myself...
+  LocationNorth: {fileID: 0}
+  LocationSouth: {fileID: 11400000, guid: 7f2cbbe7673bf4a3d8a8475daab2a6a6, type: 2}
+  LocationWest: {fileID: 11400000, guid: b4227c8c27ebe4d80a771391a6db7ff1, type: 2}
+  LocationEast: {fileID: 0}

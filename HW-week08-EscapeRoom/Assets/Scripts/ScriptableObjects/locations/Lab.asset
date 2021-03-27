@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e0492336e4fc455db0837b9ef55b181, type: 3}
+  m_Name: Lab
+  m_EditorClassIdentifier: 
+  localName: Lab
+  description: I get here, the lab, where they save all the materials here, I need
+    to tell people...
+  LocationNorth: {fileID: 0}
+  LocationSouth: {fileID: 11400000, guid: a0aa244994f1542e1beac453333e95bb, type: 2}
+  LocationWest: {fileID: 0}
+  LocationEast: {fileID: 11400000, guid: b4227c8c27ebe4d80a771391a6db7ff1, type: 2}

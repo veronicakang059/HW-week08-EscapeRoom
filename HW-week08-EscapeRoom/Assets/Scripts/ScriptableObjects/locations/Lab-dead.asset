@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e0492336e4fc455db0837b9ef55b181, type: 3}
+  m_Name: Lab-dead
+  m_EditorClassIdentifier: 
+  localName: Lab
+  description: That's.....Dr.Carse??Seems she has died for days, what's those scratches
+    on her neck?! What happened!
+  LocationNorth: {fileID: 11400000, guid: a0aa244994f1542e1beac453333e95bb, type: 2}
+  LocationSouth: {fileID: 0}
+  LocationWest: {fileID: 0}
+  LocationEast: {fileID: 11400000, guid: 8f104fb5a8c654fdb9e4d21f67420de7, type: 2}
